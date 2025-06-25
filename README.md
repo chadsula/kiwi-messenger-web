@@ -1,3 +1,44 @@
+# Kiwi Messenger Web 🌱💬
+
+Kiwi Messenger Web is a modern, open-source, web-based VoIP chat application built with **React**. It serves as the official frontend for **Project Civitas**, a federated communication platform powered by an **Elixir** backend.
+
+## 🌍 About Project Civitas
+
+**Project Civitas** is a decentralized, community-driven communication protocol and platform. It aims to provide open, privacy-focused alternatives to centralized messengers like WhatsApp, Discord, or Telegram.
+
+Kiwi Messenger is one of its first client applications, currently supporting messaging over web with real-time communication, with future goals including voice/video chat and federation between independent servers.
+
+## 🛠 Tech Stack
+
+- **Frontend**: React + Vite + TypeScript
+- **Styling**: TailwindCSS
+- **Authentication**: Google OAuth (via Supabase)
+- **Backend**: Civitas (Elixir/Phoenix)
+- **Database & Realtime**: Supabase (PostgreSQL + Realtime API)
+
+## ✨ Features
+
+- ⚡ Fast, responsive React-based UI
+- 🧑‍💻 Google OAuth sign-in
+- 📱 Mobile & desktop layout support
+- 🔁 Real-time messaging via Supabase
+- 🐣 Simple and clean open-source codebase
+- 🪄 Designed with extensibility and federation in mind
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js ≥ 22.16
+- Supabase project or access to Civitas backend instance
+
+### Installation
+
+```bash
+git clone https://github.com/your-org/kiwi-messenger-web.git
+cd kiwi-messenger-web
+npm install
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
