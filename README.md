@@ -38,6 +38,7 @@ Kiwi Messenger is one of its first client applications, currently supporting mes
 git clone https://github.com/your-org/kiwi-messenger-web.git
 cd kiwi-messenger-web
 npm install
+```
 
 # React + TypeScript + Vite
 
