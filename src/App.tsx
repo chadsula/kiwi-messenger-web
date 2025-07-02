@@ -10,8 +10,7 @@ import Calls from "./components/Calls";
 import Communities from "./components/Communities";
 import Updates from "./components/Updates";
 import Settings from "./components/Settings";
-import HeaderMobile from "./components/HeaderMobile";
-import HeaderDesktop from "./components/HeaderDesktop";
+import { HeaderMobile, HeaderDesktop } from "./components/Header";
 import ResizablePanel from "./components/ResizablePanel";
 
 // Styles
