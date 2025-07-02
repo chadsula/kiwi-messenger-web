@@ -1,7 +1,8 @@
 export type View =
-  | "chats"
-  | "updates"
-  | "communities"
+  | "account"
   | "calls"
+  | "chat"
+  | "chatlist"
+  | "communities"
   | "settings"
-  | "account";
+  | "updates";
